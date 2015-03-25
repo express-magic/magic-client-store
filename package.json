@@ -1,0 +1,22 @@
+{
+  "name": "magic-client-store",
+  "version": "0.0.1",
+  "description": "stores client side data using localforage",
+  "author": "Jascha Ehrenreich <jascha@jaeh.at>",
+  "license": "AGPL",
+  "main": "index.js",
+  "scripts": {
+    "clean": "bin/clean",
+    "prepub": "bin/build"
+  },
+  "dependencies": {
+    "async": "^0.9.0",
+    "is": "^3.0.1",
+    "localforage": "^1.2.2",
+    "magic-loops": "git://github.com/express-magic/magic-loops"
+  },
+  "devDependencies": {
+    "babel": "^4.7.16",
+    "tap": "^0.7.1"
+  }
+}
