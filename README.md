@@ -1,2 +1,2 @@
 # magic-client-store
-localforage and make sure it can write before trying to
+exposes localforage and makes sure it can write to localforage on init
