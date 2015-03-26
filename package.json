@@ -13,10 +13,18 @@
     "async": "^0.9.0",
     "is": "^3.0.1",
     "localforage": "^1.2.2",
-    "magic-loops": "git://github.com/express-magic/magic-loops"
+    "magic-loops": "git+https://github.com/express-magic/magic-loops"
   },
   "devDependencies": {
     "babel": "^4.7.16",
     "tap": "^0.7.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/express-magic/magic-client-store"
+  },
+  "bugs": {
+    "url": "https://github.com/express-magic/magic-client-store/issues"
+  },
+  "homepage": "https://github.com/express-magic/magic-client-store"
 }
