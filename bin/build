@@ -5,5 +5,4 @@ node_modules/.bin/babel \
   src/store.js \
   --out-file index.js \
   --experimental \
-  --source-maps \
 ;

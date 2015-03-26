@@ -95,5 +95,3 @@ var Store = (function () {
 
 var forage = localforage;
 exports.forage = forage;
-
-//# sourceMappingURL=index.js.map
